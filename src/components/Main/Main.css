@@ -1,0 +1,17 @@
+.Main::-webkit-scrollbar {
+   display: none;
+}
+.Main {
+   -ms-overflow-style: none;
+   scrollbar-width: none;
+}
+
+.Main {
+   width: 80vw;
+   padding: 30px 70px 30px 30px;
+   overflow-y: scroll;
+}
+
+.Main > h1 {
+   margin-bottom: 50px;
+}
