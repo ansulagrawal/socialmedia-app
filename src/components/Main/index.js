@@ -35,9 +35,11 @@ function Main({ data }) {
             if (post.userId === data.id)
                return (
                   <Card
+                     id={post.id}
                      title={post.title}
                      body={post.body}
                      index={index}
+                     comments={comments}
                   ></Card>
                );
          })}

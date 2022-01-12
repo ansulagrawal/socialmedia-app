@@ -30,4 +30,10 @@
       flex-direction: column;
       text-align: center;
    }
+   .UserListItem_pic {
+      margin-right: 0;
+   }
+   .UserListItem > p {
+      font-size: 15px;
+   }
 }
