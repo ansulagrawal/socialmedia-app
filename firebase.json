@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "ansul-agrawal-social-media",
     "public": "build",
     "ignore": [
       "firebase.json",
