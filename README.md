@@ -4,6 +4,8 @@
 
 <br>
 
+## Deploy Link: <a href="https://ansul-agrawal-social-media.web.app/" target="_blank">Link</a>
+
 #### Screen Shots of the Project Preview:
 
 <br>
@@ -17,6 +19,4 @@
 <br>
 <br>
 
-#### Mobile Page Preview
-
-<img src="./public/mobile-size-preview.png" alt="Mobile Size Preview image" width="auto" height="1000" />
+### Video of Explaining:
